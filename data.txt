@@ -1,0 +1,16 @@
+git init
+git add .
+git commit -m "first commit"
+git push origin main
+
+
+1. git init 
+2. git add .
+3. git  commit -m "first commit"
+4. git remote add  origin https://github.com/username/repository.git
+5. git remote -v
+6. git branch 
+7. git branch  -M main
+8. git push origin main
+
+
